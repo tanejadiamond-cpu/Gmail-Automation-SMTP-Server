@@ -45,7 +45,6 @@ gmail-smtp-email-automation/
 ├── recipients.csv       # Recipient names and email addresses
 ├── .env                 # Email credentials and configuration
 ├── .gitignore           # Files excluded from Git
-├── requirements.txt     # Project dependencies
 └── README.md            # Project documentation
 ```
 
